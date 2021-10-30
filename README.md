@@ -1,4 +1,4 @@
-# TV-Character-Prediction
+# PERSONALITY TYPE ANALYSIS
 
 Website to predict which telivision character matches your personality based on Machine Learning data from openpsychometrics.org.
 
@@ -9,9 +9,11 @@ An interactive character-matching website based on machine-learning and personal
 <h1>Go and checkout which character matches your personality!</h1>
 The dataset contains 800 characters and one will be mapped to one particular match based on the inputs of personality scores.
 
-<h2>Wesite hosted</h2>
+<h2>Website hosted</h2>
 Website is hosted at <a href="https://your-character.herokuapp.com">Link to website</a>
+
 ![image](https://user-images.githubusercontent.com/72940291/139533289-c38e19a2-8d05-48cd-8ccc-3c07127c2606.png)
+
 ![image](https://user-images.githubusercontent.com/72940291/139533300-5bc6c84c-e649-4a3f-8149-df2d933bdf6b.png)
 
 <h2>Functionality</h2>
