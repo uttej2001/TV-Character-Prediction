@@ -11,6 +11,8 @@ The dataset contains 800 characters and one will be mapped to one particular mat
 
 <h2>Wesite hosted</h2>
 Website is hosted at <a href="https://your-character.herokuapp.com">Link to website</a>
+![image](https://user-images.githubusercontent.com/72940291/139533289-c38e19a2-8d05-48cd-8ccc-3c07127c2606.png)
+![image](https://user-images.githubusercontent.com/72940291/139533300-5bc6c84c-e649-4a3f-8149-df2d933bdf6b.png)
 
 <h2>Functionality</h2>
 The entire website has been made from Django framework and is hosted on Heroku. <br>
